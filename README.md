@@ -6,12 +6,6 @@ This repository contains solutions to the HackerRank Software Engineer Role Cert
 
 The HackerRank Software Engineer Role Certification is an assessment designed to evaluate a candidate's coding skills, problem-solving abilities, and understanding of algorithms and data structures. 
 
-## Certificate
-
-![HackerRank Software Engineer Role Certification](path_to_your_certificate_photo.jpg)
-
-Replace `path_to_your_certificate_photo.jpg` with the actual path to your certificate image in the repository.
-
 ## License
 
 This project is licensed under the terms of the [LICENSE](LICENSE).
